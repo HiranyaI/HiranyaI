@@ -6,7 +6,7 @@
 ### <div align="center">I'm Hiranya Induwara, an undergraduate at IIT, a full-time developer, and a Programming enthusiastic 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [The Predictor].(https://github.com/J3r3myPerera/Stock-Prediction-with-time-Frame)  
+- 🔭 I’m currently working on [The Predictor](https://github.com/J3r3myPerera/Stock-Prediction-with-time-Frame)  
   
 
 - 🌱 I’m currently learning Algorithms and Machine Learning.  
@@ -86,16 +86,6 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=HiranyaI&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
 
   
 
