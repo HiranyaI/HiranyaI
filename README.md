@@ -6,7 +6,7 @@
 ### <div align="center">I'm Hiranya Induwara, an undergraduate at IIT, a full-time developer, and a Programming enthusiastic 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [The Predictor](https://github.com/J3r3myPerera/Stock-Prediction-with-time-Frame)  
+- 🔭 I’m currently working on [CIDS](https://github.com/J3r3myPerera/GImhan-CIDS)  
   
 
 - 🌱 I’m currently learning Algorithms and Machine Learning.  
