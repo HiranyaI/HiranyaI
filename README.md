@@ -6,7 +6,7 @@
 ### <div align="center">I'm Hiranya Induwara, an undergraduate at IIT, a full-time developer, and a Programming enthusiastic 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [Chocos.lk Website](https://github.com/HiranyaI/Chocos.lk-Website).
+- 🔭 I’m currently working on [Sickle Care App](https://github.com/HiranyaI/Sickel-Care-Mobile-App).
   
 
 - 🌱 I’m currently learning Algorithms and Machine Learning.  
