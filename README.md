@@ -6,7 +6,7 @@
 ### <div align="center">I'm Hiranya Induwara, an undergraduate at University of Westminster, and a Programming enthusiastic 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [Sickle Care App](https://github.com/HiranyaI/Sickel-Care-Mobile-App).
+- 🔭 I’m currently working on [File Organizer](https://github.com/HiranyaI/file_organizer).
   
 
 - 🌱 I’m currently learning Machine Learning.  
