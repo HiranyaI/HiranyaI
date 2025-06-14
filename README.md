@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Hiranya Induwara, an undergraduate at IIT, a full-time developer, and a Programming enthusiastic 👨‍💻</div>  
+### <div align="center">I'm Hiranya Induwara, an undergraduate at University of Westminster, and a Programming enthusiastic 👨‍💻</div>  
   
 
 - 🔭 I’m currently working on [Sickle Care App](https://github.com/HiranyaI/Sickel-Care-Mobile-App).
