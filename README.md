@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [Sickle Care App](https://github.com/HiranyaI/Sickel-Care-Mobile-App).
   
 
-- 🌱 I’m currently learning Algorithms and Machine Learning.  
+- 🌱 I’m currently learning Machine Learning.  
   
 
 - ❓ Ask me about anything related to Java and Python.  
