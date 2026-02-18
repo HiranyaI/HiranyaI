@@ -3,16 +3,16 @@
 </div>  
   
 
-### <div align="center">I'm Hiranya Induwara, an undergraduate at University of Westminster, and a Programming enthusiastic 👨‍💻</div>  
+### <div align="center">I'm Hiranya Induwara, University of Westminster graduate, and a Programming enthusiastic 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [File Organizer](https://github.com/HiranyaI/file_organizer).
+- 🔭 I’m currently working on [Coffe MAchine](https://github.com/HiranyaI/coffee_machine).
   
 
-- 🌱 I’m currently learning Machine Learning.  
+- 🌱 I’m currently learning Data Engineering.  
   
 
-- ❓ Ask me about anything related to Java and Python.  
+- ❓ Ask me about anything related to Python.  
   
 
 - ⚡ Fun fact: a coffeeholic and a nyctophile  
