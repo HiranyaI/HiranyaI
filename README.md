@@ -6,7 +6,7 @@
 ### <div align="center">I'm Hiranya Induwara, University of Westminster graduate, and a Programming enthusiastic 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [Coffe MAchine](https://github.com/HiranyaI/coffee_machine).
+- 🔭 I’m currently working on [Coffe Machine](https://github.com/HiranyaI/coffee_machine).
   
 
 - 🌱 I’m currently learning Data Engineering.  
